@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: currency
+
+env:
+  currency: ${EXIM_CURRENCY_CODE}
